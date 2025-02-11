@@ -43,7 +43,7 @@ Now you can access `localhost:8000` in your browser and explore the API!
 
 Here are some improvements that I would consider developing next, not necessarily in this order:
 
-- Add Swagger and versioning
+- Add schema versioning with `drf-spectacular`
 - Add pagination
 - Add rate limiting
 - Add authentication
