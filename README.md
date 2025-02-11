@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 python manage.py migrate
 ```
-The database used by this project is sqlite3, which comes built-in Django.
+The database used by this project is sqlite3, which comes with Python.
 
 ## Executing the application
 
